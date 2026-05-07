@@ -187,9 +187,7 @@ function App() {
               </div>
 
               <h1 className="max-w-3xl text-5xl font-black tracking-tight text-white md:text-7xl">
-                
-                А ви шо бандіти? таксуєте? чи ще у глобусі?
-                Підараси, закази блять по 100 крон возять за 2 км з подачею
+                Стрижка, після якої хочеться повернутися
               </h1>
 
               <p className="mt-6 max-w-2xl text-lg leading-8 text-neutral-300">
