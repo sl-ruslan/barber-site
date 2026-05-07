@@ -187,7 +187,7 @@ function App() {
               </div>
 
               <h1 className="max-w-3xl text-5xl font-black tracking-tight text-white md:text-7xl">
-                Стрижка, після якої хочеться повернутися
+                
                 А ви шо бандіти? таксуєте? чи ще у глобусі?
               </h1>
 
