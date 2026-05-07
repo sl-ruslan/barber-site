@@ -188,6 +188,7 @@ function App() {
 
               <h1 className="max-w-3xl text-5xl font-black tracking-tight text-white md:text-7xl">
                 Стрижка, після якої хочеться повернутися
+                А ви шо бандіти? таксуєте? чи ще у глобусі?
               </h1>
 
               <p className="mt-6 max-w-2xl text-lg leading-8 text-neutral-300">
